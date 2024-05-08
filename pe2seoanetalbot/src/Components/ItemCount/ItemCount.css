@@ -1,0 +1,15 @@
+
+.itemcount-contenedor{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.counter-contenedor{
+    display: flex;
+    gap: 10px;
+}
+
+.itemcount-button {
+    padding: 5px 10px;
+}

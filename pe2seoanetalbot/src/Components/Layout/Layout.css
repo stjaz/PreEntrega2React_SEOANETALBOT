@@ -1,0 +1,11 @@
+
+
+.header-contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-contenedor{
+    flex: 1;
+}
